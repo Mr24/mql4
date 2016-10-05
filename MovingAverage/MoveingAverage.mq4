@@ -4,7 +4,7 @@
 //|                               https://github.com/verysvery/mql4/ |
 //|                                                 Since:2016.03.11 |
 //|                                Released under the Apache license |
-//|					  	  https://opensource.org/licenses/Apache-2.0 |
+//|			  https://opensource.org/licenses/Apache-2.0 |
 //+------------------------------------------------------------------+
 #property copyright "Copyright(c) 2016 -, VerysVery Inc."
 #property link      "https://github.com/verysvery/mql4/"
